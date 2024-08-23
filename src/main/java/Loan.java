@@ -39,4 +39,5 @@ public class Loan {
     public double getProfit() {
         return amount * interestRate;
     }
+
 }
